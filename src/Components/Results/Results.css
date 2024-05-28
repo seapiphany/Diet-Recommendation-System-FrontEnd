@@ -1,0 +1,19 @@
+.results{
+    background: #E7F9DE;
+    color: #262626;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.result-text{
+    text-align: center;
+    transform: translateY(70%);
+}
+.result-text h1{
+    margin-bottom: 15px;
+}
+.result-text p{
+    margin-bottom: 40px;
+    padding: 15px 10px;
+}
